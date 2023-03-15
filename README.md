@@ -1,6 +1,6 @@
 ## c_s_application1
 
-testing demo
+testing demo (MIDTERM)
 
 ## Description
 
